@@ -1,0 +1,16 @@
+parcel_id,address,owner,zoning,land_use,lot_sqft,assessed_value
+P1001,214 Maple Ave,Acme Holdings LLC,R-1,Single family,7200,410000
+P1002,18 Oak St,Sample Family Trust,R-1,Single family,6500,385000
+P1003,402 Cedar Rd,Northside Properties,R-2,Duplex,9100,520000
+P1004,77 Elm Ct,Demo Realty Inc,C-1,Retail,21000,1890000
+P1005,350 River Blvd,Riverbend Partners,C-2,Office,34500,3450000
+P1006,12 Lake Dr,Test Park Authority,MU,Vacant,52000,780000
+P1007,610 Hill Ln,Example Church,R-1,Single family,15800,640000
+P1008,95 Pine Way,Blue Door Storage LLC,I-1,Warehouse,48000,2160000
+P1009,260 Maple Ave,Acme Holdings LLC,R-2,Duplex,8400,470000
+P1010,31 River Blvd,Demo Realty Inc,MU,Mixed use,26000,2860000
+P1011,504 Oak St,Northside Properties,C-1,Retail,18200,1456000
+P1012,148 Cedar Rd,Sample Family Trust,R-1,Single family,5900,350000
+P1013,720 Lake Dr,Riverbend Partners,I-1,Warehouse,59000,2655000
+P1014,66 Hill Ln,Acme Holdings LLC,C-2,Office,28800,2592000
+P1015,299 Elm Ct,Blue Door Storage LLC,I-1,Warehouse,41000,1845000
