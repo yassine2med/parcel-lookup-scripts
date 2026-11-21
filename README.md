@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="parcel-lookup-scripts" width="100%"></p>
+
 # parcel-lookup-scripts
 
 Look up land parcels by id, owner, address, zoning or lot size in a local CSV extract of public parcel data.
