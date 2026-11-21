@@ -2,6 +2,8 @@
 
 # parcel-lookup-scripts
 
+[![CI](https://github.com/yassine2med/parcel-lookup-scripts/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/parcel-lookup-scripts/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Look up land parcels by id, owner, address, zoning or lot size in a local CSV extract of public parcel data.
 
 ![Screenshot](docs/screenshot.png)
